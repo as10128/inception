@@ -38,3 +38,8 @@ inception_magic_commit;
 MySQL Inception is built on MySQL 5.6.10 with storage engines and other parts removed. It uses the real MySQL parser to analyze SQL statements and provides a shell for command line access. In addition there is also a web user interface. The main author is Wang Zhufeng (e-mail address above), who works for [Qunar.com](https://www.qunar.com()), the biggest online hotel booking site in China. As with MySQL 5.6, Inception is open source and free to use by anybody.
 
 MySQL Inception is very popular in China and used some other countries as well, e.g. India. Most of the [documentation](https://github.com/mysql-inception/inception-document) and web user interface is in Chinese. We welcome translation contributions!
+
+
+
+
+yum install gcc gcc-c++ cmake bison openssl-devel ncurses-devel –y
